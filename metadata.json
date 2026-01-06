@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot Lens",
+  "description": "A mobile-focused document scanner and translator using Gemini Vision. Zoom, scan, and translate text from signage or paper instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
